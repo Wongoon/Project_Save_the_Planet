@@ -1,0 +1,16 @@
+{
+    "settings" : {
+        "artist" : "",
+        "song" : "",
+        "description" : "",
+        "bpm" : 0,
+        "offset" : 0,
+        "difficulty" : ["", 0]
+    },
+    "noteData" : [
+        [[0, 0], [0, 0]]
+    ],
+    "setSpeed" : [
+        ["idx", "bpm"]
+    ]
+}
