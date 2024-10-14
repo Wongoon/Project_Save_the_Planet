@@ -1,0 +1,22 @@
+{
+    "music": [
+        {
+            "name": "",
+            "composer": "",
+            "musicFileName" : "",
+            "difficulty": [null, 0, 16],
+            "album": ["", "", ""],
+            "bpm" : "",
+            "genre" : ""
+        },
+        {
+            "name": "",
+            "composer": "",
+            "musicFileName" : "",
+            "difficulty": [null, 0, 16],
+            "album": ["", "", ""],
+            "bpm" : "",
+            "genre" : ""
+        }
+    ]
+}
